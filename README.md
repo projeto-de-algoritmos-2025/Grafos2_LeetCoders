@@ -15,7 +15,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 ## Screenshots
 
 ### Resultado leetcode 
-![Resultado leetcode ]()
+![Resultado leetcode 1368]()
 
 ### Resultado leetcode 
 ![Resultado leetcode ]()
@@ -32,7 +32,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 ## Problemas e Soluções
 | Problema | Dificuldade | Soluções |
 | -- | -- | -- |
-| []()  |  Difícil | [Vídeo]() |
+| [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=problem-list-v2&envId=graph)  |  Difícil | [Vídeo]() |
 | []()  |  Difícil | [Vídeo]() |
 | []()  |  Média | [Vídeo]() |
 | []()  |  Média | [Vídeo]() |
