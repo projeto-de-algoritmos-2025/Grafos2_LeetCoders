@@ -14,8 +14,8 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ## Screenshots
 
-### Resultado leetcode 
-![Resultado leetcode 1368]()
+### Resultado leetcode 1368
+![Resultado leetcode 1368](/Problemas/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid(hard)/resolucao.png)
 
 ### Resultado leetcode 
 ![Resultado leetcode ]()
