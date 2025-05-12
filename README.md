@@ -17,25 +17,21 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 ### Resultado leetcode 1368
 ![Resultado leetcode 1368](/Problemas/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid(hard)/resolucao.png)
 
-### Resultado leetcode 
-![Resultado leetcode ]()
+### Resultado leetcode 1928
+![Resultado leetcode 1928](/Problemas/1928.%20Minimum%20Cost%20to%20Reach%20Destination%20in%20Time/Resultado1928.png)
 
 ### Resultado leetcode 
 
 ![Resultado leetcode ]()
 
-### Resultado leetcode 
-
-![Resultado leetcode ]()
 
 
 ## Problemas e Soluções
 | Problema | Dificuldade | Soluções |
 | -- | -- | -- |
 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=problem-list-v2&envId=graph)  |  Difícil | [Vídeo]() |
+| [1928. Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/?envType=problem-list-v2&envId=graph)  |  Difícil | [Vídeo]() |
 | []()  |  Difícil | [Vídeo]() |
-| []()  |  Média | [Vídeo]() |
-| []()  |  Média | [Vídeo]() |
 
 ## Instalação 
 **Linguagem**: Python3<br>
